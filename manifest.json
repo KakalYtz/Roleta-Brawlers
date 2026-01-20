@@ -1,0 +1,16 @@
+{
+  "name": "Roleta de Brawlers",
+  "short_name": "Brawlers",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#151525",
+  "theme_color": "#ffcc00",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "imgb/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
